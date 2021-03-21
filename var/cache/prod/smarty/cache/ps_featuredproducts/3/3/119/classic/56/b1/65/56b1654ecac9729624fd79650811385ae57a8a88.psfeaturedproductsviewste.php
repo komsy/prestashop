@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-03-01 16:46:51
+/* Smarty version 3.1.34-dev-7, created on 2021-03-21 16:48:24
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603cf04b1d38b1_31326028',
+  'unifunc' => 'content_60574ea871f6c3_48032274',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_603cf04b1d38b1_31326028 (Smarty_Internal_Template $_smarty_tpl) {
+function content_60574ea871f6c3_48032274 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     Popular Products
@@ -355,6 +355,140 @@ function content_603cf04b1d38b1_31326028 (Smarty_Internal_Template $_smarty_tpl)
 
       
     <ul class="product-flags">
+            </ul>
+
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+    </div>
+  </article>
+</div>
+
+            
+<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+  <meta itemprop="position" content="5" />  <article class="product-miniature js-product-miniature" data-id-product="28" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://localhost/prestashop_1.7.7.0/home/28-sneaker-shoe.html" class="thumbnail product-thumbnail">
+            <img
+              src="http://localhost/prestashop_1.7.7.0/30-home_default/sneaker-shoe.jpg"
+              alt="Sneaker shoe"
+              data-full-size-image-url="http://localhost/prestashop_1.7.7.0/30-large_default/sneaker-shoe.jpg"
+              />
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/prestashop_1.7.7.0/home/28-sneaker-shoe.html" itemprop="url" content="http://localhost/prestashop_1.7.7.0/home/28-sneaker-shoe.html">Sneaker shoe</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">KES1.16</span>
+              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
+                <meta itemprop="priceCurrency" content="KES" />
+                <meta itemprop="price" content="1.16" />
+              </div>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="28" data-url="http://localhost/prestashop_1.7.7.0/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+    </div>
+  </article>
+</div>
+
+            
+<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+  <meta itemprop="position" content="6" />  <article class="product-miniature js-product-miniature" data-id-product="30" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://localhost/prestashop_1.7.7.0/home/30-kids-shoe.html" class="thumbnail product-thumbnail">
+            <img
+              src="http://localhost/prestashop_1.7.7.0/31-home_default/kids-shoe.jpg"
+              alt="kids shoe"
+              data-full-size-image-url="http://localhost/prestashop_1.7.7.0/31-large_default/kids-shoe.jpg"
+              />
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost/prestashop_1.7.7.0/home/30-kids-shoe.html" itemprop="url" content="http://localhost/prestashop_1.7.7.0/home/30-kids-shoe.html">kids shoe</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">KES1.16</span>
+              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
+                <meta itemprop="priceCurrency" content="KES" />
+                <meta itemprop="price" content="1.16" />
+              </div>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="30" data-url="http://localhost/prestashop_1.7.7.0/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags">
+                    <li class="product-flag new">New</li>
             </ul>
 
 
